@@ -1,12 +1,12 @@
 # Resources
 
-Public validation and company materials. **Primary delivery:** [kynlet.com/resources/](https://www.kynlet.com/resources/) (served from `aegis-frontend`). This repository holds archive copies and usage notes.
+Public validation and company materials. **Primary delivery:** [kynlet.com/resources/](https://www.kynlet.com/resources/). This repository holds archive copies and usage notes. Live site hosting remains a separate operational concern and is not claimed complete here.
 
 **Stage framing (all assets):** pre-seed · founder validation · no GA product · no revenue claims
 
 **Book a validation conversation:** [kynlet.com/book-validation](https://www.kynlet.com/book-validation)
 
-**Publication gate:** PDFs listed here must pass [Public Collateral QA](https://github.com/gpapai-labs/aegis-docs/blob/main/governance/release/PUBLIC_COLLATERAL_QA.md) in `aegis-docs` before live URL updates.
+**Publication gate (interim):** PDFs listed here must remain consistent with Kynlet public narrative guardrails in this repository ([PUBLIC_NARRATIVE.md](./PUBLIC_NARRATIVE.md)) before live URL updates. A dedicated Kynlet-owned publication QA home is not yet published in `kynlet-hq`; do not treat historical GPAP documentation paths as current Kynlet custody.
 
 **Contact:** [hello@kynlet.com](mailto:hello@kynlet.com) · **Website:** [www.kynlet.com](https://www.kynlet.com)
 

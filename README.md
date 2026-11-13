@@ -6,7 +6,7 @@
 
 *Pre-seed · Founder validation · No GA product*
 
-[Website](https://www.kynlet.com) · [GPAP AI Labs](https://github.com/gpapai-labs) · [Book a validation conversation](https://www.kynlet.com/book-validation)
+[Website](https://www.kynlet.com) · [GitHub](https://github.com/kynlet-hq) · [Book a validation conversation](https://www.kynlet.com/book-validation)
 
 </div>
 
@@ -167,7 +167,7 @@ Kynlet’s research focus includes making these dependencies **legible at change
 
 ## Technical architecture overview
 
-Architecture here is **target direction** for the Kynlet platform under active exploration in private repositories (`aegis-platform`, `aegis-infra`). Interfaces and module boundaries will change during validation.
+Architecture here is **target direction** for the Kynlet platform under active exploration in private Kynlet repositories (`kynlet-hq/kynlet-platform`, `kynlet-hq/kynlet-web`). Interfaces and module boundaries will change during validation.
 
 ### Design principles
 
@@ -282,7 +282,7 @@ We are building toward that future **one narrow mechanism at a time**, with vali
 
 ## Founders
 
-**GPAP AI Labs** · [gitpushandpray.ai](https://www.gitpushandpray.ai)
+**Kynlet** · [kynlet.com](https://www.kynlet.com)
 
 | | |
 |---|---|
@@ -301,15 +301,14 @@ This public repository hosts selected materials as research and validation progr
 - Technical explorations and diagrams  
 - Public writeups and development updates  
 
-Private implementation lives in the [gpapai-labs](https://github.com/gpapai-labs) monorepo (`aegis-*` repositories) until we open additional surface area.
+Private product implementation lives in [`kynlet-hq/kynlet-platform`](https://github.com/kynlet-hq/kynlet-platform) and [`kynlet-hq/kynlet-web`](https://github.com/kynlet-hq/kynlet-web) (private). Historical engineering provenance includes earlier GPAP-hosted work; that history is not current public ownership.
 
 ---
 
 ## Links
 
 - **Product:** [www.kynlet.com](https://www.kynlet.com)  
-- **Organization:** [github.com/gpapai-labs](https://github.com/gpapai-labs)  
-- **Company:** [gitpushandpray.ai](https://www.gitpushandpray.ai)  
+- **Organization:** [github.com/kynlet-hq](https://github.com/kynlet-hq)  
 - **Email:** [hello@kynlet.com](mailto:hello@kynlet.com)  
 - **Book validation:** [www.kynlet.com/book-validation](https://www.kynlet.com/book-validation)  
 - **Resources:** [www.kynlet.com/resources/](https://www.kynlet.com/resources/)  
@@ -317,5 +316,5 @@ Private implementation lives in the [gpapai-labs](https://github.com/gpapai-labs
 ---
 
 <p align="center">
-  <sub>Kynlet · Pre-seed · Validation stage · GPAP AI Labs</sub>
+  <sub>Kynlet · Pre-seed · Validation stage · kynlet-hq</sub>
 </p>
